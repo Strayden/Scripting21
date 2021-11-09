@@ -7,15 +7,22 @@ header{
 	background-image: url( "../images/sign2.jpg");
 	padding: 10%;
 	background-size:cover;
-	background-position: center
+	background-position: center;
+	color: #040B28; 
+	
 }
 
 p{background-color:white;
 	border-style: solid;
-	padding: 2%;}
+	padding: 5%;
+	margin: 6%;
+	
+}
 
 
-body{ background-color: #5E5C5C}
+body{ background-color: #5E5C5C;
+	  margin:0;
+	}
 
 
 .flex-conainer{ 
@@ -36,8 +43,8 @@ body{ background-color: #5E5C5C}
 			display: flex;	
 			margin: 20px 40px;
 			justify-content: center;
-/*			padding: 5px;*/
 			align-items: center;
+		
 }
 			
 
@@ -51,6 +58,7 @@ body{ background-color: #5E5C5C}
 			justify-contet:center;
 			max-width: 30%;
 			padding-left: 12%;
+			
 		
 		
 			
